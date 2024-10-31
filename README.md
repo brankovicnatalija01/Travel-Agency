@@ -3,7 +3,7 @@
 <p align="justify">
 This project is a <strong>client-server desktop application</strong> developed in Java as part of the <strong>Software Design</strong> course at the Faculty of Organizational Sciences. The application efficiently manages and tracks operations in a travel agency, streamlining the process of handling user records, travel arrangements, and reservations, and providing a structured approach to data management for agency staff.
 
-The project follows a simplified version of <strong>Larman's software development methodology</strong>, covering all key phases from requirements gathering to implementation and testing. You can view the complete project documentation, which includes a detailed description of each phase, in PDF format.
+The project follows a simplified version of <strong>Larman's software development methodology</strong>, covering all key phases from requirements gathering to implementation and testing. You can view the complete project documentation, which includes a detailed description of each phase, in [PDF format](assets/documentation.pdf).
 </p>
 
 
@@ -95,5 +95,5 @@ The reservations overview displays a list of all reservations, allowing employee
 
 ## Documentation
 
-For a detailed description of each phase and feature, view the [Project Documentation](docs/Travel_Agency_Management_Thesis.pdf).
+For a detailed description of each phase and feature, view the [Project Documentation](assets/documentation.pdf).
 
